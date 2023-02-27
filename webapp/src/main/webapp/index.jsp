@@ -101,7 +101,7 @@ h1{
         </header>
          <h1>Flipkart summer Mobile offer available from 1st March 2023 31st March 2023</h1>
     </section>    
-    <section id="about"><h1>This Is About</h1></section>
+    <section id="about"><h1>This Is About harsha trainings</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
     <section id="pricing"><h1>This Is Pricing</h1></section>
     <section id="contact"><h1>This Is Contact</h1></section>
