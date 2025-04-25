@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Flipkart shopping website is soo gggooooooddddd</title>
+    <title>Flipkart shopping website is soo gggooooooddddd===========</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
