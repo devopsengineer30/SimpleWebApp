@@ -1,0 +1,36 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Checkout') {
+            steps {
+                git url: 'https://github.com/your-repo/aha-login.git'
+            }
+        }
+
+        stage('Build Docker Image') {
+            steps {
+                script {
+                    dockerImage = docker.build("aha-login-page")
+                }
+            }
+        }
+
+        stage('Run Container') {
+            steps {
+                script {
+                    dockerImage.run("-d -p 8080:80")
+                }
+            }
+        }
+    }
+
+    post {
+        success {
+            echo 'Login page deployed successfully!'
+        }
+        failure {
+            echo 'Deployment failed.'
+        }
+    }
+}
