@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Every Project team using the CICD in Agile </h1>
+         <h1> Flipkart is having year end offers </h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
