@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Every project team currently using CICD in Agile </h1>
+         <h1> Tomorrow onwards we will start advanced tools </h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
