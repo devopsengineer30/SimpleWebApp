@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Docker is Very Code and Advanced tool ... </h1>
+         <h1> Flipkart is having Monthend offers ... </h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
