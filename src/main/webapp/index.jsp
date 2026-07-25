@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Every company using CICD for deployments ... </h1>
+         <h1> We will Start Advanced tool which is Docker on Monday ... </h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
